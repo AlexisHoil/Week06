@@ -2,13 +2,13 @@
 
 int main(void) {
 
-  printf("H   H EEEEE L      OOO\n");
-  printf("H   H E     L     O   O\n");
-  printf("H   H E     L     O   O\n");
-  printf("HHHHH EEEEE L     O   O\n");
-  printf("H   H E     L     O   O\n");
-  printf("H   H E     L     O   O\n");
-  printf("H   H EEEEE LLLLL  OOO\n");
+  printf("H   H EEEEE L     L      OOO\n");
+  printf("H   H E     L     L     O   O\n");
+  printf("H   H E     L     L     O   O\n");
+  printf("HHHHH EEEEE L     L     O   O\n");
+  printf("H   H E     L     L     O   O\n");
+  printf("H   H E     L     L     O   O\n");
+  printf("H   H EEEEE LLLLL LLLLL  OOO\n");
   
  
   return 0;
